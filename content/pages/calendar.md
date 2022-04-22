@@ -6,8 +6,6 @@ ocw_type: CourseSection
 title: Calendar
 uid: a64a5bda-3709-65a0-b1c4-742da508a441
 ---
-\>
-
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
 {{< thclose >}}{{< thopen >}}
