@@ -92,11 +92,7 @@ Ethnic Pluralism in Early Turkish Republic II
 The Question of Cosmopolitanism
 {{< tdclose >}}{{< tdopen >}}
 
-Film selections: *Crossing the Bridge: The Sound of Istanbul* (2005) 
-
-by 
-
-Fatih Akin. 90 min.
+Film selections: *Crossing the Bridge: The Sound of Istanbul* (2005) by Fatih Akin. 90 min.
 
 Final Paper draft due session 16.
 
