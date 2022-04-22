@@ -67,7 +67,7 @@ Reform Era
 {{< tdclose >}}{{< tdopen >}}
 The Armenian Genocide and the Historical Background
 {{< tdclose >}}{{< tdopen >}}
-Documentary: *The Armenian Genocide* by Andrew Goldberg. 50 min.)
+Documentary: *The Armenian Genocide* by Andrew Goldberg. 50 min.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
