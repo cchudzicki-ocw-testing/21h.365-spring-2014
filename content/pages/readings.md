@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A list of readings, divided by session.
 draft: false
 learning_resource_types:
 - Readings

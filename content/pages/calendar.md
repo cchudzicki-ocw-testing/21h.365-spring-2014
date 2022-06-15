@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the week by week outline of what the students
+  did in the course. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
