@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A description of assignments, containing due dates and two online quizes.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
